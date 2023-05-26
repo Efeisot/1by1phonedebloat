@@ -1,5 +1,10 @@
 # 1by1phonedebloat
 In this github repository there are debloat scripts that use bloatware lists specific to each phone
+![bloatware](https://miro.medium.com/max/1400/1*9EBHIOzhE3md44fOxZXhWw.png](https://www.vpnmentor.com/wp-content/uploads/2019/07/Designs_12-06.jpg)
+
+## What is bloatware?
+To decide which applications to uninstall, we first need to know the definition of bloatware.
+
 ## Usage
 To use these scripts, you will need:
 1. ADB installed on your PC
