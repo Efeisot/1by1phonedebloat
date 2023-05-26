@@ -17,7 +17,7 @@ bash
 This will remove bloatware applications that are unique to this phone or that are inconvenient to uninstall on other phones but not on this phone.
 ## Adding new phone scripts
 To add a script for a new phone model:
-1. Create a <phone_model>_debloat.sh script that loops through that list and uninstalls each app using ADB
+1. Create a <phone_model>_debloat.sh script that uninstalls each "bloat" app using ADB
 2. Add the script to this repository
 3. Test the script and make sure all applications are properly uninstalled and there are no bootloop problems
 4. Submit a pull request to have the script added to the repository!
