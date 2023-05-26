@@ -1,6 +1,6 @@
 # 1by1phonedebloat
 In this github repository there are debloat scripts that use bloatware lists specific to each phone
-![Android 13 photo](https://www.cumhuriyet.com.tr/Archive/2023/4/14/2071403/kapak_103938.jpg)
+![example photo]([https://www.cumhuriyet.com.tr/Archive/2023/4/14/2071403/kapak_103938.jpg](https://www.trustedreviews.com/wp-content/uploads/sites/54/2023/03/Xiaomi-Redmi-Note-12-Pro-5G-5-scaled.jpg))
 ## Usage
 To use these scripts, you will need:
 1. ADB installed on your PC
